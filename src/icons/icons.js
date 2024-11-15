@@ -13,6 +13,8 @@ import {
   faMagnifyingGlass,
   faRightFromBracket,
   faPrint,
+  faFileContract,
+  faCar,
 } from '@fortawesome/free-solid-svg-icons'
 
 library.add(
@@ -29,4 +31,6 @@ library.add(
   faMagnifyingGlass,
   faRightFromBracket,
   faPrint,
+  faFileContract,
+  faCar,
 )
